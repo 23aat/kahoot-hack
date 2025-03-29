@@ -19,7 +19,7 @@ def kahoot_run(pin, x, name, verify):
   send.connect()
 
 def test_connection(pin):
-  send = kahoot(pin, "Test Name")
+  send = kahoot(https://kahoot.it/?pin=6284855&refer_method=link, "aj")
   return send.testSession()
 
 def find_two_factor_code(pin):
